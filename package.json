@@ -24,6 +24,6 @@
     "h5.modbus": "github:morkai/h5.modbus#master",
     "h5.modbus.inode": "github:morkai/h5.modbus.inode#master",
     "h5.bluetooth.hci": "github:morkai/h5.bluetooth.hci#master",
-    "h5.bluetooth.hci.inode": "github:morkai/h5.bluetooth.hci.inode#master"
+    "h5.bluetooth.hci.inode": "github:przyludzki/h5.bluetooth.hci.inode#test"
   }
 }
